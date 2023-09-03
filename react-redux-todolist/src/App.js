@@ -8,7 +8,7 @@ import Todo from './components/Todo';
 const App = () => {
   return (
     <Provider store={store}>
-      <div  className="App" >
+      <div  className="todo" >
         <Todo/>
       </div>
     </Provider>
