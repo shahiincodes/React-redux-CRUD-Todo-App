@@ -1,0 +1,11 @@
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #b6b2b2bb;
+}
